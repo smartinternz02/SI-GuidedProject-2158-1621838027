@@ -1,0 +1,21 @@
+20 USE CASES OF AI & ML
+1. digital assistant
+2.Customer Sales Contact Analytics
+3.Image Recognition and Visual Analytics
+4.Voice Authentication
+5.Chatbot
+6.Data Visualization
+7.Fraud Detection
+8.Drug Discovery
+9.Gene Analytics and Editing
+10.HR Retention Management
+11.Secure Communications
+12.Manufacturing Analytics
+13.Self-Driving Cars
+14.Driving Assistant
+15.Billing
+16.Data Preparation Platform
+17.Chatbot Analytics
+18.Geo-Analytics Platform
+19.Sales attribution
+20.Marketing analytics
